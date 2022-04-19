@@ -1,0 +1,77 @@
+
+
+{/* 
+
+// import react, { Component } from "react";
+// import Book from "./Book";
+// const books = [
+//   {
+//     book: "book number 1",
+//     author: "chirag",
+//   },
+//   {
+//     book: "book number 2",
+//     author: "jay",
+//   },
+//   {
+//     book: "book number 2",
+//     author: "jay",
+//   },{
+//     book: "book number 2",
+//     author: "jay",
+//   },{
+//     book: "book number 2",
+//     author: "jay",
+//   },
+// ];
+
+
+
+
+// // export default class Booklist extends Component {
+// //   render() {
+// //     return (
+// //       <section>
+// //         <h3>this is our Booklist</h3>
+// //         <Book book={this.books[0]} />
+// //       </section>
+// //     );
+// //   }
+// // }
+
+// export function BooklistFun() {
+//   return (
+     
+//     <section>
+//       <h3>this is our Booklist</h3>
+
+// );
+// if(datas)
+// {
+//  console.log(datas);
+//   datas=0;
+//   return;
+// }
+//         })
+//         // .map((data, i) => (
+//         //   <Book key={i} bookName={data.book} author={data.author} />
+//         // ))
+        
+//         } 
+       
+
+//     </section>
+//   );
+// }
+
+// {
+//   /* {books.filter((data) => data.author !== "jay")
+//         .map((data, i) => (
+//           <Book key={i} bookName={data.book} author={data.author} />
+//         ))} */
+
+
+
+// } */}
+
+
